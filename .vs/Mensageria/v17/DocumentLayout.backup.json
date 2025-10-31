@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{547ABD0B-1082-4283-979C-06038587FAF8}|Mensageria.Consumer\\Mensageria.Consumer.csproj|c:\\users\\edrol\\onedrive\\documentos\\projeto-mensageria\\mensageria.consumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{547ABD0B-1082-4283-979C-06038587FAF8}|Mensageria.Consumer\\Mensageria.Consumer.csproj|solutionrelative:mensageria.consumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC02BA1D-66B9-4CA7-B96B-381D11AE2851}|Mensageria.Infrastructure\\Mensageria.Infrastructure.csproj|c:\\users\\edrol\\onedrive\\documentos\\projeto-mensageria\\mensageria.infrastructure\\messagebroker\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC02BA1D-66B9-4CA7-B96B-381D11AE2851}|Mensageria.Infrastructure\\Mensageria.Infrastructure.csproj|solutionrelative:mensageria.infrastructure\\messagebroker\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C4FE3A-99D0-44F0-AFEC-2BA689D048ED}|Mensageria.Domain\\Mensageria.Domain.csproj|c:\\users\\edrol\\onedrive\\documentos\\projeto-mensageria\\mensageria.domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C4FE3A-99D0-44F0-AFEC-2BA689D048ED}|Mensageria.Domain\\Mensageria.Domain.csproj|solutionrelative:mensageria.domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C4FE3A-99D0-44F0-AFEC-2BA689D048ED}|Mensageria.Domain\\Mensageria.Domain.csproj|c:\\users\\edrol\\onedrive\\documentos\\projeto-mensageria\\mensageria.domain\\mensageria.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91C4FE3A-99D0-44F0-AFEC-2BA689D048ED}|Mensageria.Domain\\Mensageria.Domain.csproj|solutionrelative:mensageria.domain\\mensageria.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547ABD0B-1082-4283-979C-06038587FAF8}|Mensageria.Consumer\\Mensageria.Consumer.csproj|c:\\users\\edrol\\onedrive\\documentos\\projeto-mensageria\\mensageria.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547ABD0B-1082-4283-979C-06038587FAF8}|Mensageria.Consumer\\Mensageria.Consumer.csproj|solutionrelative:mensageria.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547ABD0B-1082-4283-979C-06038587FAF8}|Mensageria.Consumer\\Mensageria.Consumer.csproj|c:\\users\\edrol\\onedrive\\documentos\\projeto-mensageria\\mensageria.consumer\\backgroundservices\\messageconsumerworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547ABD0B-1082-4283-979C-06038587FAF8}|Mensageria.Consumer\\Mensageria.Consumer.csproj|solutionrelative:mensageria.consumer\\backgroundservices\\messageconsumerworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0F269B-E36A-42E6-A3BC-0D2F8552EBCA}|Mensageria.Application\\Mensageria.Application.csproj|c:\\users\\edrol\\onedrive\\documentos\\projeto-mensageria\\mensageria.application\\dtos\\messageinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0F269B-E36A-42E6-A3BC-0D2F8552EBCA}|Mensageria.Application\\Mensageria.Application.csproj|solutionrelative:mensageria.application\\dtos\\messageinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0F269B-E36A-42E6-A3BC-0D2F8552EBCA}|Mensageria.Application\\Mensageria.Application.csproj|c:\\users\\edrol\\onedrive\\documentos\\projeto-mensageria\\mensageria.application\\interfaces\\imessagepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0F269B-E36A-42E6-A3BC-0D2F8552EBCA}|Mensageria.Application\\Mensageria.Application.csproj|solutionrelative:mensageria.application\\interfaces\\imessagepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB682C2-1FF4-4FDD-9378-C9B314DABDED}|Mensageria.Api\\Mensageria.Api.csproj|c:\\users\\edrol\\onedrive\\documentos\\projeto-mensageria\\mensageria.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB682C2-1FF4-4FDD-9378-C9B314DABDED}|Mensageria.Api\\Mensageria.Api.csproj|solutionrelative:mensageria.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB682C2-1FF4-4FDD-9378-C9B314DABDED}|Mensageria.Api\\Mensageria.Api.csproj|c:\\users\\edrol\\onedrive\\documentos\\projeto-mensageria\\mensageria.api\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB682C2-1FF4-4FDD-9378-C9B314DABDED}|Mensageria.Api\\Mensageria.Api.csproj|solutionrelative:mensageria.api\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB682C2-1FF4-4FDD-9378-C9B314DABDED}|Mensageria.Api\\Mensageria.Api.csproj|c:\\users\\edrol\\onedrive\\documentos\\projeto-mensageria\\mensageria.api\\mensageria.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BB682C2-1FF4-4FDD-9378-C9B314DABDED}|Mensageria.Api\\Mensageria.Api.csproj|solutionrelative:mensageria.api\\mensageria.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Consumer\\appsettings.json",
+              "RelativeDocumentMoniker": "Mensageria.Consumer\\appsettings.json",
+              "ToolTip": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Consumer\\appsettings.json",
+              "RelativeToolTip": "Mensageria.Consumer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-31T19:23:49.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Application\\DTOs\\MessageInputModel.cs",
+              "RelativeDocumentMoniker": "Mensageria.Application\\DTOs\\MessageInputModel.cs",
+              "ToolTip": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Application\\DTOs\\MessageInputModel.cs",
+              "RelativeToolTip": "Mensageria.Application\\DTOs\\MessageInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T02:55:14.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageConsumerWorker.cs",
+              "DocumentMoniker": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Consumer\\BackgroundServices\\MessageConsumerWorker.cs",
+              "RelativeDocumentMoniker": "Mensageria.Consumer\\BackgroundServices\\MessageConsumerWorker.cs",
+              "ToolTip": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Consumer\\BackgroundServices\\MessageConsumerWorker.cs",
+              "RelativeToolTip": "Mensageria.Consumer\\BackgroundServices\\MessageConsumerWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T02:55:59.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Domain\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "Mensageria.Domain\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Domain\\Entities\\Message.cs",
+              "RelativeToolTip": "Mensageria.Domain\\Entities\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T00:52:15.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMqPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Infrastructure\\MessageBroker\\RabbitMqPublisher.cs",
+              "RelativeDocumentMoniker": "Mensageria.Infrastructure\\MessageBroker\\RabbitMqPublisher.cs",
+              "ToolTip": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Infrastructure\\MessageBroker\\RabbitMqPublisher.cs",
+              "RelativeToolTip": "Mensageria.Infrastructure\\MessageBroker\\RabbitMqPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T02:49:14.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mensageria.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Domain\\Mensageria.Domain.csproj",
+              "RelativeDocumentMoniker": "Mensageria.Domain\\Mensageria.Domain.csproj",
+              "ToolTip": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Domain\\Mensageria.Domain.csproj",
+              "RelativeToolTip": "Mensageria.Domain\\Mensageria.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-31T19:24:06.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Mensageria.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Api\\Program.cs",
+              "RelativeToolTip": "Mensageria.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T02:50:53.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Api\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "Mensageria.Api\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Api\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "Mensageria.Api\\Controllers\\MessagesController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T02:50:19.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "Mensageria.Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Consumer\\Program.cs",
+              "RelativeToolTip": "Mensageria.Consumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T02:58:20.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMessagePublisher.cs",
+              "DocumentMoniker": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Application\\Interfaces\\IMessagePublisher.cs",
+              "RelativeDocumentMoniker": "Mensageria.Application\\Interfaces\\IMessagePublisher.cs",
+              "ToolTip": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Application\\Interfaces\\IMessagePublisher.cs",
+              "RelativeToolTip": "Mensageria.Application\\Interfaces\\IMessagePublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T02:45:11.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mensageria.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Api\\Mensageria.Api.csproj",
+              "RelativeDocumentMoniker": "Mensageria.Api\\Mensageria.Api.csproj",
+              "ToolTip": "C:\\Users\\edrol\\OneDrive\\Documentos\\Projeto-Mensageria\\Mensageria.Api\\Mensageria.Api.csproj",
+              "RelativeToolTip": "Mensageria.Api\\Mensageria.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-10T03:07:12.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

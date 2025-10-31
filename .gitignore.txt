@@ -1,0 +1,12 @@
+# Pasta de build e cache do .NET
+[Oo]bj/
+[Bb]in/
+
+# Arquivos de usuário e de IDE
+.vs/
+*.suo
+*.user
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
