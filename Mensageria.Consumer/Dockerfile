@@ -8,6 +8,10 @@ COPY Mensageria.Consumer/Mensageria.Consumer.csproj Mensageria.Consumer/
 COPY Mensageria.Application/Mensageria.Application.csproj Mensageria.Application/
 COPY Mensageria.Domain/Mensageria.Domain.csproj Mensageria.Domain/
 COPY Mensageria.Infrastructure/Mensageria.Infrastructure.csproj Mensageria.Infrastructure/
+
+# ----- LINHA QUE FALTAVA ABAIXO -----
+COPY Mensageria.Api/Mensageria.Api.csproj Mensageria.Api/
+
 RUN dotnet restore Mensageria.sln
 
 # Copia o resto do código fonte e faz o build
